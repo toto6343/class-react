@@ -8,7 +8,7 @@
 
 # JavaScript package management tool
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&Color=white" alt="npm 로고">
-<img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=Yarn&Color=white" alt="Yarn 로고">
+<img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&Color=white" alt="Yarn 로고">
 
 
 ***
