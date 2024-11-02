@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/class-react/static/css/main.48f293fa.css",
+    "main.js": "/class-react/static/js/main.051e6c0b.js",
+    "static/media/main-icon-day.svg": "/class-react/static/media/main-icon-day.d8833d3c2c4782fc2491.svg",
+    "index.html": "/class-react/index.html",
+    "main.48f293fa.css.map": "/class-react/static/css/main.48f293fa.css.map",
+    "main.051e6c0b.js.map": "/class-react/static/js/main.051e6c0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48f293fa.css",
+    "static/js/main.051e6c0b.js"
+  ]
+}
